@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Loop Reminder</title>
+        <link rel="stylesheet" href="popup.css" />
+    </head>
+    <body>
+        <div class="field time-field">
+            <label for="hours">Hours:</label>
+            <input type="number" id="hours" min="0" value="0" />
+
+            <label for="minutes">Minutes:</label>
+            <input type="number" id="minutes" min="1" value="5" />
+        </div>
+
+        <div class="field">
+            <label for="message">Reminder Message:</label>
+            <textarea
+                id="message"
+                rows="3"
+                placeholder="Drink water / Take a break!"
+            ></textarea>
+        </div>
+
+        <button id="start-btn">Start Reminder</button>
+        <button id="stop-btn">Stop Reminder</button>
+        <p id="status"></p>
+
+        <script type="module" src="/src/popup.ts"></script>
+    </body>
+</html>

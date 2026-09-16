@@ -8,14 +8,26 @@ Please note this extension is currently only available for Google Chrome.
 
 ```plaintext
 For Google Chrome:
-1. Open Google Chrome folder in the repository.
-2. Download the dist.zip file on your device.
-3. Unzip the dist folder.
-4. Open Google Chrome and go to chrome://extensions/ in the address bar.
-5. Enable "Developer mode".
-6. Click "Load unpacked" and select the dist folder.
-7. You should see the extension under the extensions icon in your browser.
-8. Click on the icon and set your reminder.
+a.  Non coding users
+    1. Open Google Chrome folder in the repository.
+    2. Download the dist.zip file on your device.
+    3. Unzip the dist folder.
+    4. Open Google Chrome and go to chrome://extensions/ in the address bar.
+    5. Enable "Developer mode".
+    6. Click "Load unpacked" and select the dist folder.
+    7. You should see the extension under the extensions icon in your browser.
+    8. Click on the icon and set your reminder.
+
+b. For coding users:
+    1. Clone the repository.
+    2. Open Google Chrome folder and run npm install.
+    3. Run npm run build.
+    4. Open Google Chrome and go to chrome://extensions/ in the address bar.
+    5. Enable "Developer mode".
+    6. Click "Load unpacked" and select the dist folder.
+    7. You should see the extension under the extensions icon in your browser.
+    8. Click on the icon and set your reminder.
+    
 ```
 
 ## Features

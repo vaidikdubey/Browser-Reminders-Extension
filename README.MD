@@ -18,7 +18,7 @@ a.  Non coding users
     7. You should see the extension under the extensions icon in your browser.
     8. Click on the icon and set your reminder.
 
-b. For coding users:
+b. Coding users:
     1. Clone the repository.
     2. Open Google Chrome folder and run npm install.
     3. Run npm run build.

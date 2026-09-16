@@ -34,9 +34,9 @@ For Google Chrome:
 
 ### Vaidik Dubey
 
-- [GitHub](https://github.com/VaidikDubey)
+- [GitHub](https://github.com/vaidikdubey)
 
-- [LinkedIn](https://www.linkedin.com/in/vaidikdubey)
+- [LinkedIn](https://www.linkedin.com/in/vaidik-dubey)
 
 ## Contributions
 

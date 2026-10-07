@@ -36,7 +36,7 @@ b. Coding users:
 - Easy to use interface.
 - Customizable reminders hours and minutes.
 
-## Future Inprovements
+## Future Improvements
 
 - Add support for other browsers.
 - Add multiple concurrent reminders feature.

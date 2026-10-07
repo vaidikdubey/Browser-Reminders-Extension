@@ -40,7 +40,6 @@ b. Coding users:
 
 - Add support for other browsers.
 - Add multiple concurrent reminders feature.
-- Add support for desktop notifications.
 
 ## Author
 
